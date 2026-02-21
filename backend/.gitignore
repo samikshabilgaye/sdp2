@@ -1,0 +1,22 @@
+# Maven
+*.jar
+*.war
+*.ear
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Other IDE files
+*.swp
+*~
